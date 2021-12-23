@@ -1,0 +1,19 @@
+.protected{
+    width: 100%;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.protected h1{
+    font-size: 90px;
+}
+
+
+.protected p{
+    font-size: 50px;
+    color: #32C3D5;
+    text-transform: uppercase;
+}
